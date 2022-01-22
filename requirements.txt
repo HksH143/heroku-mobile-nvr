@@ -2,7 +2,6 @@
 anaconda-navigator==2.1.1
 appdirs==1.4.4
 argh==0.26.2
-argon2-cffi @ file:///tmp/build/80754af9/argon2-cffi_1613037499734/work
 arrow @ file:///tmp/build/80754af9/arrow_1617737686940/work
 asn1crypto @ file:///tmp/build/80754af9/asn1crypto_1596577642040/work
 astroid @ file:///tmp/build/80754af9/astroid_1628063140030/work
