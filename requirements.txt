@@ -1,6 +1,5 @@
 
 anaconda-navigator==2.1.1
-anyio @ file:///tmp/build/80754af9/anyio_1617783277988/work/dist
 appdirs==1.4.4
 argh==0.26.2
 argon2-cffi @ file:///tmp/build/80754af9/argon2-cffi_1613037499734/work
